@@ -5,8 +5,8 @@
 %global crate liboverdrop
 
 Name:           rust-%{crate}
-Version:        0.0.2
-Release:        3%{?dist}
+Version:        0.1.0
+Release:        1%{?dist}
 Summary:        Configuration library, with directory overlaying and fragments dropins
 
 # Upstream license specification: MIT/Apache-2.0
